@@ -12,9 +12,9 @@ const Footer = () => {
       borderTopStyle="solid"
     >
       <SimpleGrid columns={3} w="full">
+        <Link>Linko</Link>
         <Link>Link</Link>
-        <Link>Link</Link>
-        <Link>Link</Link>
+        <Link>Linkoooooo</Link>
         <Link>Link</Link>
         <Link>Link</Link>
         <Link>Link</Link>
